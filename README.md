@@ -1,5 +1,12 @@
 # todo-vue
 
+## App
+
+Github Pages:
+
+> https://guilnorth.github.io/todo-vue/
+
+![](src/assets/app.png)
 ## Project setup
 ```
 yarn install
@@ -20,5 +27,3 @@ yarn build
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
